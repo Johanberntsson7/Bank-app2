@@ -1,1 +1,10 @@
-﻿Console.WriteLine("Hello, World!");
+﻿namespace Bank
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hello world!");
+        }
+    }
+}
